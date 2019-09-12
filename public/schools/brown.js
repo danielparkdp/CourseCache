@@ -2167,7 +2167,7 @@ brown = [
     description:"Introduction to Japanese language. Emphasizes the attainment of good spoken control of Japanese and develops a foundation of literacy. No prerequisites. This is the first half of a year-long course whose first semester grade is normally a temporary one. Neither semester may be elected independently without special written permission. The final grade submitted at the end of the course work in JAPN 0200 covers the entire year and is recorded as the final grade for both semesters. The East Asian Studies department wishes to provide language instruction to all interested students. If you are unable to register for this course due to enrollment limits but are dedicated to learning Japanese, please contact the instructor via email.",
     prereq:"None",
     times:"Multiple sections - check cab.brown.edu",
-    associations:""
+    associations:"random"
   },
   {
     title: "JAPN 0300: Intermediate Japanese",
