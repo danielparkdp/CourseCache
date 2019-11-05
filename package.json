@@ -22,7 +22,7 @@
     "ejs": "^2.6.2",
     "express": "^4.17.1",
     "module-exports": "^1.0.0",
-    "mongoose": "^5.6.7",
+    "mongoose": "^5.7.5",
     "url": "^0.11.0"
   },
   "devDependencies": {
